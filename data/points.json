@@ -1,0 +1,1037 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.653143,
+                    43.641664
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Water Access",
+                "icon": "hand_launch_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Amy's Park Hand Launch",
+                "placename": "Horicon",
+                "description": "<p>Canoe and kayak access, accessable by a short portage (420 feet).<\/p>",
+                "keywords": "Hand Launch,Public Water Access",
+                "geom_type": "point",
+                "uid": "8bd9ee78-1c31-4e8c-b390-efee10e920df",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.766168,
+                    43.400733
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Beaver",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Beaver Dam",
+                "placename": "Lake Vanare",
+                "description": "<p>Use caution where the trail crosses below the beaver dam.  During high water, it may not be passable.<\/p>",
+                "keywords": "Beaver",
+                "geom_type": "point",
+                "uid": "3c9da695-cc8c-4ee8-8a15-59f20e39458c",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.653222,
+                    43.640892
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Beaver",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Beaver Dam",
+                "placename": "Horicon",
+                "description": null,
+                "keywords": "Beaver",
+                "geom_type": "point",
+                "uid": "2a74f75c-6f17-4330-83a0-04d1a5a96036",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.448913,
+                    43.73912
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Beaver Pond Lookout",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout close to the pond's shore and beaver dam for great wildlife viewing.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "543d6673-96f6-4ccd-94da-c56f2a1b1f68",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.65686,
+                    43.652131
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Water Access",
+                "icon": "hand_launch_light",
+                "rank": 3,
+                "categories": "Recreation,Transportation",
+                "name": "Boat Launch and Scenic Lookout",
+                "placename": "Horicon",
+                "description": "<p>Canoe and Kayak boat launch and Scenic Lookout over on North Pond.<\/p>",
+                "keywords": "Hand Launch,Public Water Access,Bridge",
+                "geom_type": "point",
+                "uid": "12520a18-e2ec-4a5d-94e9-f8ff3d5c24f1",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.708211,
+                    43.568949
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Cat Mountain Summit",
+                "placename": "Bolton Landing",
+                "description": "<p>Cat Mountain Summit offers a stunning 270\u00b0 view of Lake George and the Adirondacks.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "714f349c-a217-4cd4-afba-d1dcbf655fd1",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.442751,
+                    43.814884
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Cemetery",
+                "icon": "Cemetery",
+                "rank": 3,
+                "categories": "Historic and Interpretive",
+                "name": "Cook Mountain Cemetery",
+                "placename": "Indian Kettles",
+                "description": "<p> Cemetery that dates back to the Civil War.<\/p>",
+                "keywords": "Cemetery",
+                "geom_type": "point",
+                "uid": "2ef3c71f-c792-47c1-879f-07c98383fa04",
+                "photos": "b0566a6a-f324-420c-8c6c-a01b3614e542"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.652617,
+                    43.633218
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Godwin Preserve Scenic Lookout",
+                "placename": "Bolton Landing",
+                "description": "<p>Scenic Lookout with views of the Amy's Park wetlands and High Nopit. <\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "3ed63bb9-2116-4ac9-ac04-88723f6ef268",
+                "photos": "9572b28d-6453-4a88-8cc7-8304b23ac833"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.455898,
+                    43.733934
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Gull Bay Lookout",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout with view of Gull Bay and Lake George. <\/p>",
+                "keywords": "Picnic Area,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "a9f6d6ab-feb2-4532-8c59-8f606796cd92",
+                "photos": "9d3c3d70-fe72-4d94-ab5d-e264d0920603"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.461198,
+                    43.750777
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Water Access",
+                "icon": "hand_launch_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Last Great Shoreline Dock",
+                "placename": "Putnam",
+                "description": "<p>Seasonal dock that will accommodate multiple boats. Canoes and kayaks are welcome too along the shore. The dock is open dawn to dusk; it is asked that you limit your time to three hours.  If it is early or late in the season, call ahead for availability.\n<\/p>",
+                "keywords": "Hand Launch,Public Water Access",
+                "geom_type": "point",
+                "uid": "5cae65d1-33df-4070-8d8a-fc6aeae7aa43",
+                "photos": "2988358a-835b-4685-9e07-87442f5efa60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.497434,
+                    43.745348
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Garden",
+                "icon": "flower_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Mary Lou's Friendship Garden",
+                "placename": "Hague",
+                "description": "<p>A meandering path leads from the park gate to Mary Lou's Friendship Garden, a 30-foot diameter bed, consisting of perennials provided by the public in honor of or in memory of a special place, person or event. The Garden is named in honor of Mary Lou Doulin, Hague resident and volunteer extraordinaire who has kept watch over Peggy's Point and done an amazing amount of work to keep the Garden looking great.<\/p>",
+                "keywords": "Public Park,Flower Garden,Green Space,Picnic Area",
+                "geom_type": "point",
+                "uid": "cf11da43-9191-45a9-a026-080e37310403",
+                "photos": "c8ac3d49-3acf-4ec4-ac16-5f199f998691"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.754052,
+                    43.405968
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Noosa's Bluff Scenic Lookout",
+                "placename": "Lake George",
+                "description": "<p>Scenic Lookout with views of Butler Pond and Vermont. The lookout was named by Rick and Evelyn Spawn after their yellow lab and its namesake in Australia. <\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "ee7f0fb6-933b-4a0e-992b-57a4f28b26f6",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.620688,
+                    43.470378
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Ecosystem",
+                "icon": "Ecosystem",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Oak\/Hickory\/Sedge Forest",
+                "placename": "Pilot Knob",
+                "description": "<p>This ecosystem is an excellent example of a dry Adirondack Oak\/Hickory forest.  The overstory is red oak, white oak and shagbark hickory, and many of the smaller trees in the understory are hop-hornbeam, a species that typically indicates alkaline soil conditions.  The relatively open canopy and alkaline soil allows for a nearly continuous groundcover of sedges,  giving the area it's distinctive grassy appearance.  Ecosystems like this are not common, but usually found on rocky,  south-southwest facing hillsides in the Lake George region.  <\/p>",
+                "keywords": "Ecosystem",
+                "geom_type": "point",
+                "uid": "8c5fe061-a3b9-4018-b81c-abbbf9ea3ad2",
+                "photos": "e307233a-6bb5-4e8c-a1dd-9f8ee4780522,25fed567-44f9-4098-b99e-f718460924ec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.496516,
+                    43.744743
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Gazebo",
+                "icon": "Gazebo",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Peggy's Point Gazebo",
+                "placename": "Hague",
+                "description": "<p>Gazebo with benches for a shaded spot to rest.<\/p>",
+                "keywords": "Public Park,Benches,Flower Garden,Gazebo,Pocket Park,Viewing Platform,Water Access",
+                "geom_type": "point",
+                "uid": "3e7692c7-c4b0-454c-ae5b-69ba109bec1c",
+                "photos": "55ee37a0-a3bb-4d51-9158-27f69a633a69,86bf6654-5197-48a7-a0e8-3d849981590c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.618425,
+                    43.470145
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Gazebo",
+                "icon": "Gazebo",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Pilot Knob Gazebo",
+                "placename": "Pilot Knob",
+                "description": "<p>Scenic Lookout and Gazebo<\/p>",
+                "keywords": "Natural Feature Attraction,Gazebo,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "0733f1b9-fdb3-4a9d-bbf6-fcbe29909e68",
+                "photos": "aa395880-8726-493c-88a8-634a5f3affde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.6771,
+                    43.560484
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Pinnacle Lookout ",
+                "placename": "Bolton Landing",
+                "description": null,
+                "keywords": "Scenic Vista",
+                "geom_type": "point",
+                "uid": "75360d4a-4013-4aa4-95bb-6e0b92550a54",
+                "photos": "20139187-98a7-433c-9698-45023a4f4460,afa79292-76dc-436d-b1e8-95ce17ccedb8,f000b7b1-2962-4f89-bbf1-9c58eb450971"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.456905,
+                    43.773687
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Record Hill Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p>Top of Record Hill with expansive views to the  west and south.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "6b587ee9-cf64-4d0c-b176-421482f22a03",
+                "photos": "fe7abf68-92d2-42c6-9fc4-0f752f4b402f,fb8fec9b-4dfc-43aa-9106-4e377895c7d2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.658488,
+                    43.645793
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Bridge",
+                "icon": "Bridge",
+                "rank": 3,
+                "categories": "Transportation",
+                "name": "Red Trail Bridge",
+                "placename": "Horicon",
+                "description": "<p>Bridge on the Red Trail in Amy's Park.<\/p>",
+                "keywords": "Bridge",
+                "geom_type": "point",
+                "uid": "a9f2bba4-a93b-4bd5-9a3d-6b5447a7b804",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.645458,
+                    43.654252
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Bridge",
+                "icon": "Bridge",
+                "rank": 3,
+                "categories": "Transportation",
+                "name": "Red Trail Bridge",
+                "placename": "Horicon",
+                "description": "<p>Bridge on the Red Trail in Amy's Park.<\/p>",
+                "keywords": "Bridge",
+                "geom_type": "point",
+                "uid": "7d060713-d418-4c0a-9aae-b3222e859712",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.453708,
+                    43.815222
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Ridges Trail Scenic Lookout",
+                "placename": "Indian Kettles",
+                "description": "<p>Scenic Lookout with a clear view down Lake George.  Flat Rock and Anthony's Nose can be seen on the left, and Roger's Rock on the right. <\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "cd6b6117-cc5a-46fd-8e26-722ea575f888",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.448216,
+                    43.739902
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Alert",
+                "icon": "caution_light",
+                "rank": 3,
+                "categories": "Alert",
+                "name": "Rough Trail",
+                "placename": "Putnam",
+                "description": null,
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "bb30c3e1-dc70-4bf2-9dba-31dcaf0c2ab2",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.452706,
+                    43.739709
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout over Gull Bay Pond.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "9553db9d-2c4d-4318-9dd6-64fb08db31fd",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.459771,
+                    43.750405
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p> Scenic overlook that provides a west-facing view of Lake George.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "4570b0a3-fbd5-419c-af37-22d7b479dcd6",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.452228,
+                    43.740306
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout over Gull Bay Pond.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "e41597b8-e0a8-45bf-aa3d-e6b3e6805da5",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.449994,
+                    43.75879
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p> Scenic opening overlooking Sucker Brook and the Green Mountains to the east.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "16f515f8-e5e5-4844-b79b-dbf9ba6eaa1a",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.654237,
+                    43.650194
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Horicon",
+                "description": "<p> Scenic Lookout over the active beaver pond and its resident wildlife.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "027b9505-11b2-4730-91ae-7b5fdcead61b",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.653424,
+                    43.650058
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Horicon",
+                "description": "<p>Scenic Lookout<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "9319de36-a1c4-4391-a775-0fd89c219e13",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.751584,
+                    43.406217
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Lake George",
+                "description": "<p>Views of Lake George.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "0e889764-0d65-46b8-b47f-71fd9a3d1d89",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.662226,
+                    43.638459
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Brant Lake",
+                "description": "<p>Views of Lake George<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "37b176c0-3ccf-47f7-acfc-cac2e3b15823",
+                "photos": "6c75febd-3f66-44e0-b79d-91e6601346c7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.65363,
+                    43.641114
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Transportation",
+                "name": "Scenic Lookout",
+                "placename": "Horicon",
+                "description": "<p>Scenic lookout with views of South Pond and the beaver lodge and dam.<\/p>",
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "79a7b12b-c98f-4331-897e-8733dc5aa0e9",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.450953,
+                    43.816035
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Indian Kettles",
+                "description": "<p> Scenic Lookout with views of Vermont.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "12f5340e-67b8-4b23-b672-aa28ab16f738",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.447764,
+                    43.740778
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Scenic Lookout",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout over Gull Bay wetlands.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "954f12e4-82f2-455b-a7e7-813e99f856f6",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.611079,
+                    43.465021
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Waterfall",
+                "icon": "waterfall_light",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Seasonal Waterfall",
+                "placename": "Pilot Knob",
+                "description": "<p>The waterfall is seasonal and though active in the spring, it is often dry in late summer and fall.<\/p>",
+                "keywords": "Waterfall",
+                "geom_type": "point",
+                "uid": "4fa65b0b-c716-4301-994f-e6ea3344db44",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.653607,
+                    43.641911
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "South Pond Lookout",
+                "placename": "Horicon",
+                "description": "<p>Scenic Lookout of South Pond<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "652116e4-c49e-4723-a44a-b852dc1bf591",
+                "photos": "cef68fd5-128c-4a00-8f43-8a665616b8a9,e665f82f-769e-4a20-80c5-cc90fc63c829"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.654017,
+                    43.650143
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Alert",
+                "icon": "caution_light",
+                "rank": 3,
+                "categories": "Alert",
+                "name": "Steep Trail",
+                "placename": "Horicon",
+                "description": null,
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "ad2d9460-1303-45f0-aee4-6034b59666e8",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.445244,
+                    43.742871
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Alert",
+                "icon": "caution_light",
+                "rank": 3,
+                "categories": "Alert",
+                "name": "Steep Trail",
+                "placename": "Putnam",
+                "description": null,
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "0b4dd813-689a-4a1d-8636-5ebf08d491c2",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.659895,
+                    43.63915
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Alert",
+                "icon": "caution_light",
+                "rank": 3,
+                "categories": "Alert",
+                "name": "Steep Trail Section",
+                "placename": "Brant Lake",
+                "description": null,
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "356dcebe-c910-45cb-8157-a50138cc1d7d",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.621825,
+                    43.616338
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Alert",
+                "icon": "caution_light",
+                "rank": 3,
+                "categories": "Alert",
+                "name": "Stream Crossing",
+                "placename": "Bolton Landing",
+                "description": null,
+                "keywords": "",
+                "geom_type": "point",
+                "uid": "129571c8-4bac-4194-bf8c-6abfa3febcb4",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.44506,
+                    43.7416
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Sucker Brook  Lookout ",
+                "placename": "Putnam",
+                "description": "<p>Scenic Lookout with  expansive view of the Gull Bay ponds and wetlands. <\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "e484fafa-a59f-44cb-9a8a-c5e3b6fa2262",
+                "photos": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.706438,
+                    43.592545
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Thomas Mountain Overlook",
+                "placename": "Bolton Landing",
+                "description": "<p>Overlook that offers a 180-degree view of Lake George.<\/p>",
+                "keywords": "Scenic Overlook",
+                "geom_type": "point",
+                "uid": "06c11ab0-edd0-434e-8457-933854cb8d3a",
+                "photos": "dbbc0464-e62b-4498-b9b2-d6693027d815"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.512395,
+                    43.682724
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Natural Feature",
+                "name": "Uncas Cliff Scenic Lookout",
+                "placename": "Silver Bay",
+                "description": "<p> Uncas Cliff, scenic lookout with views of Lake George<\/p>",
+                "keywords": "Scenic Vista",
+                "geom_type": "point",
+                "uid": "cc8aed36-e0c7-4b25-b735-c50c08e06de4",
+                "photos": "468e30a8-9138-4df0-b424-340622e82316"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.642535,
+                    43.632721
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Scenic Overlook",
+                "icon": "wildlife_viewing_light",
+                "rank": 3,
+                "categories": "Recreation",
+                "name": "Walnut Ridge Scenic Lookout",
+                "placename": "Bolton Landing",
+                "description": "<p>Scenic Lookout with spectacular views of Lake George.<\/p>",
+                "keywords": "Natural Feature Attraction,Scenic Overlook",
+                "geom_type": "point",
+                "uid": "6acf8cc5-7162-4b9c-8657-634453aa9ed5",
+                "photos": "a4b4e5d9-a7f2-49aa-b5c0-120fae4f0cc8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.653163,
+                    43.64062
+                ]
+            },
+            "comments": null,
+            "properties": {
+                "category": "Bridge",
+                "icon": "Bridge",
+                "rank": 3,
+                "categories": "Transportation",
+                "name": "Yellow Trail Bridge",
+                "placename": "Horicon",
+                "description": "<p>Bridge on the Yellow Trail in Amy's Park.<\/p>",
+                "keywords": "Bridge",
+                "geom_type": "point",
+                "uid": "6a379d20-328b-4f1e-9fda-2425fb62ad19",
+                "photos": null
+            }
+        }
+    ]
+}
