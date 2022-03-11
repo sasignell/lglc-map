@@ -1,0 +1,16 @@
+{
+  "name": "lglc-map",
+  "version": "1.0.0",
+  "description": "Map showing LGLC Preserves",
+  "main": "index.html",
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "mapbox-gl": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
